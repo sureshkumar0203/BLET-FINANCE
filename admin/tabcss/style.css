@@ -1,0 +1,44 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.pageContainer
+{
+width:100%;
+margin:auto;
+}
+
+.pageContainer1
+{
+width:970px;
+margin:auto;
+}
+
+
+.footer
+{
+width:100%;
+margin:auto;
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:center;
+font-weight:bold;
+}
+
+.footerArea
+{
+width:890px;
+margin:auto;
+margin-top:10px;
+border:solid 1px #E1E1E1;
+padding:20px;
+}
+
+a:focus {
+    outline: none;
+}
+
+div#preload { display: none; }

@@ -1,0 +1,31 @@
+#TraceWindow {
+	font-family: courier;
+	text-align: left;
+	border: solid 1px #f00;
+	height: 50%;
+	overflow: auto;
+	background-color: #fff;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	-moz-opacity: .90;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=90)
+}
+#TraceQueue {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.initialized{
+	font-weight: bold;
+	color: #fff;
+	background-color: #333;
+}
+
+.highlight0{
+	background-color: #eee;
+}
+
+.highlight1{
+}

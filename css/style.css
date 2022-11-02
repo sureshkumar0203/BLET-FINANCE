@@ -1,0 +1,312 @@
+body{
+margin:0px;
+padding:0px;
+background:#ffffff url(../images/bg.png);
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+}
+
+a img{ border:none;} 
+
+
+
+
+.loginbg{
+background:url(../images/login_bg.jpg) no-repeat;
+width:455px;
+height:322px;
+}
+
+.logintext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#f6ec31;
+}
+
+.textboxbg{
+background:url(../images/textbox_bg.jpg) no-repeat;
+width:294px;
+height:39px;
+padding:2px;
+}
+
+.usertext{ font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#676d6f;
+}
+
+.forgottext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#414f54;
+}
+
+.forgottext a{
+color:#414f54;
+}
+
+.headerbg{
+background:url(../images/header-bg.jpg) repeat-x;
+height:126px;
+padding-left:10px;
+padding-right:10px;
+}
+
+.logouttext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#ffffff;
+text-decoration:none;
+}
+
+.welcometext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#f6ec31;
+}
+
+.logouttext a{
+color:#f6ec31;
+text-decoration:none;
+}
+
+.midboxbg{ background:url(../images/midbox_bg.jpg) repeat-x; width:100%;}
+
+.botmidboxbg{ background:url(../images/bottom-mid-boxbg.jpg) repeat-x; width:100%;}
+
+.footertext{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#f6ec31;
+}
+h1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#f6ec31;
+padding:0px;
+margin:0px;
+}
+
+h2{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+color:#ffffff;
+padding:0px;
+margin:0px;
+}
+
+#menu{}
+
+#menu ul{ padding:0px; margin:0px;}
+
+#menu li{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+font-weight:normal;
+float:left;
+background-color:#d4d4d4;
+height:27px;
+list-style:none;
+line-height:27px;
+width:211px;
+padding-left:10px;
+border-bottom:solid 1px #FFFFFF;
+}
+
+#menu li a{
+color:#000000;
+text-decoration:none;}
+
+#menu li a{
+color:#000000;
+}
+
+
+ .error{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FF0000;
+font-weight:bold;
+text-decoration:none;
+
+} 
+
+
+ .white_heading{
+font-family:Arial, Helvetica, sans-serif;
+font-size:16px;
+color:#9b9b70;
+font-weight:bold;
+text-decoration:none;
+padding-left:3px;
+} 
+
+
+ .loginfield{
+ width:275px; 
+ height:35px; 
+ border:none; 
+ background-color:transparent;
+ }
+
+
+.button
+{
+background:#666666;
+font-family:Arial, Helvetica, sans-serif;
+border:solid 1px #A8A8A8;
+padding:5px;
+font-weight:bold;
+color:#FFFFFF;
+margin-top:10px;
+margin-bottom:10px;
+cursor:pointer;
+text-decoration:none;
+font-size:13px;
+line-height:24px;
+}
+
+
+.fetch_header
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:bold;
+color:#000000;
+} 
+
+.fetch_headers {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color:#000000;
+	border-bottom:solid 1px #ACACAC;
+	white-space:nowrap;
+	padding-left:5px;
+	background-color:#C8C8C8;
+}
+
+.text2
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#0C8EBA;
+font-weight:bold;
+} 
+
+.text25
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#0C8EBA;
+font-weight:bold;
+} 
+
+.noRecords2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#FF0000;
+	line-height:20px;
+}
+
+.success {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color:#00CC66;
+	line-height:20px;
+}
+
+.text1
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333333;
+font-weight:bold;
+
+} 
+
+
+  .textfield2{
+ height:21px;
+ border:solid 1px #c8c8c8;
+ width:220px;
+ line-height:21px;
+ }
+ 
+ .textarea{
+ height:50px;
+ border:solid 1px #c8c8c8;
+ line-height:21px;
+ }
+ 
+   .textfield121{
+ height:21px;
+ border:solid 1px #c8c8c8;
+ width:150px;
+ line-height:21px;
+ }
+ 
+.successMessage{background: url(../images/green_tick.gif) no-repeat 0px 0px; height:24px; padding-left:27px; padding-bottom:2px;  color:#2BA446; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+
+.errorMessage{background: url(../images/delete.png) no-repeat 0px 0px; height:18px; padding-left:25px; padding-bottom:8px; line-height:14px; color:#FF0000; font-weight:bold; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+
+
+ .error{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#FF0000;
+font-weight:bold;
+text-decoration:none;
+} 
+
+.success
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#438437;
+font-weight:bold;
+} 
+
+.startext{
+ color:red;
+ font-weight:bold;
+ font-family:Arial, Helvetica, sans-serif;
+font-size:13px;
+}
+
+
+.linkButton
+{
+background:url(../images/btn.jpg) no-repeat; 
+display:block;
+height:26px; width:90px;
+font-size: 11px;
+font-weight:bold;
+ font-family:Arial;
+color:#000;
+text-decoration:none;
+text-align:center;
+line-height:23px;
+cursor:pointer;
+
+}
+
+.level_msg{
+font-family: Arial, Helvetica, sans-serif;
+font-size:12px;
+font-weight:normal;
+color:#CC0000;
+}
+
